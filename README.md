@@ -1,4 +1,5 @@
-MudBlazor Components Part 4 (E-F)
+# MudBlazor Components Part 4 (E-F)
+
 Demonstration code for the following MudBlazor components:
 
 - MudElement
